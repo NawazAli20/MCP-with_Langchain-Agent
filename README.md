@@ -4,9 +4,9 @@ A Langchainagent has been created in Agents/MCPAgent.ipynb file
 
 Through your AI agent, integrated with MCP tools, you can: 
 
-- Control you file System
-- Get real-time weather 
-- Get current news 
+- Control you file System [@modelcontextprotocol/server-filesystem](https://www.npmjs.com/package/@modelcontextprotocol/server-filesystem)
+- Get real-time weather [open-meteo-mcp-server](https://mcpservers.org/servers/gbrigandi/mcp-server-openmeteo)
+- Get current news using [tavily-mcp](https://docs.tavily.com/documentation/mcp)
 
 
 ### How to run 
